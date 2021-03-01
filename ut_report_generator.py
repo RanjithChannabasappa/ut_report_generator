@@ -1,6 +1,6 @@
 #   !/usr/bin/env
 #   _*_ Coding: UTF-8 _*_
-#   __version__ = “1.1”
+#   __version__ = “1.2”
 
 """
     The ut_report_generator.py module populates the UT execution details and
